@@ -1,7 +1,7 @@
 # Sketches
 -----
 
-  ## 7 click analysis
+  ## 7 click analysis ##
   *revision:* get .md github version info here  *date:* get .md version date
   
 The quickest path to interactive gating with one of the freely available image volumes link to AQP_test.  This sketch walks    through only 7 clicks to load, segment and visualize cell scatter plots that can be gated and visualized. 
@@ -10,9 +10,9 @@ The quickest path to interactive gating with one of the freely available image v
 |:------:|:------:|
 |Use|Introductory| 
 |Functionality|Loading, Segmentation, Visualization|   
-|Time|2 min|   
+|Time|<2 min|   
 
-  ## Refining image processing
+  ## Refining image processing ##
   
  *revision:* get .md github version info here  *date:* get .md version date
   
@@ -22,7 +22,7 @@ Demonstration of the use and application of image processing tools built into VT
 |:------:|:------:|
 |Use|Introductory| 
 | Functionality|Loading, Image Processing, Segmentation|   
-|Time|5 min|   
+|Time|<5 min|   
   
   ## Testing segmentation
   
