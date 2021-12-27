@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 title: 'Volumetric Tissue Exploration and Analysis'
 description: 'Website for sharing the ImageJ plugin VTEA (Volumetric Tissue Exploration and Analysis). This site includes a description of VTEA, vignettes for using VTEA, how to extend VTEA and future development.'
