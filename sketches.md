@@ -1,34 +1,61 @@
 # Sketches
 ----
-## 7 click analysis
+## 7-click analysis
 
-*revision:* get .md github version info here  *date:* get .md version date
+*revision:*   *date:* 
   
-The quickest path to interactive gating with one of the freely available image volumes link to AQP_test.  This sketch walks    through only 7 clicks to load, segment and visualize cell scatter plots that can be gated and visualized. 
+The quickest path to interactive gating with one of the available image volumes.  This sketch walks    through only 7 clicks to load, segment and visualize cell scatter plots that can be gated and visualized. 
   
 |      |      |
 |:------:|:------:|
 |Use|Introductory| 
 |Functionality|Loading, Segmentation, Visualization|   
-|Time|<2 min|   
+|Time|<2 min| 
+|Image|AQP_Test.tif|
 
 ## Refining image processing
   
-*revision:* get .md github version info here  *date:* get .md version date
+*revision:*   *date:* 
   
-Demonstration of the use and application of image processing tools built into VTEA.  
+This sketch demostrates the use and application of image processing built into VTEA.  The VTEA implmentations use existing approached in ImageJ/FIJI and other ImageJ plugins.
   
 |      |      |
 |:------:|:------:|
 |Use|Introductory| 
 | Functionality|Loading, Image Processing, Segmentation|   
-|Time|<5 min|   
+|Time|<5 min|
+|Image|AQP_Test.tif|
   
 ## Testing segmentation
+
+*revision:*   *date:* 
+
+
+
+|      |      |
+|:------:|:------:|
+|Use|Introductory| 
+| Functionality|Loading, Image Processing, Segmentation|   
+|Time|<5 min|
+|Image|AQP_Test.tif|
   
 ## Importing segmentation
+
+|      |      |
+|:------:|:------:|
+|Use|Introductory| 
+| Functionality|Loading, Image Processing, Segmentation|   
+|Time|<5 min|
+|Image|AQP_Test.tif|
   
 ## Supervised gating, visualization and classification
+
+|      |      |
+|:------:|:------:|
+|Use|Introductory| 
+| Functionality|Loading Datasets, Gating, Visualization, Classification|   
+|Time|<5 min|
+|Image|AQP_Test.tif|
   
 ## Unsupervised classification and visualization
   
