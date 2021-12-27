@@ -1,3 +1,8 @@
+---
+layout: default
+title: Volumetric Tissue Exploration and Analysis
+---
+
 ## Volumetric Tissue Exploration and Analysis
 
 You can use the [editor on GitHub](https://github.com/winfrees/vtea-site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
