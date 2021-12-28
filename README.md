@@ -1,6 +1,6 @@
 ## Volumetric Tissue Exploration and Analysis
 
-We developed VTEA as a tissue cytometry(histocytometry) to analyze large 3D fluorescence light microscopy image volumes ranging from 50-100s of microns thick.  The objective was to unify image processing, segmentation, data exploration and analyis in one package. Our solution is predicated upon the idea that *image processing, segmentation and analysis of 3D image volumes is best implemented with a bidirectional interactive user interface from image processing to analysis*.
+We developed VTEA as a tool for tissue cytometry(histocytometry) of large 3D fluorescence light microscopy image volumes ranging from 50-100s of microns thick.  The objective was to unify image processing, segmentation, data exploration and analyis in one package. Our solution is predicated upon the idea that *image processing, segmentation and analysis of 3D image volumes is best implemented with a bidirectional interactive user interface from image processing to analysis*.
 
 Importantly, our solution is in its infancy. In fact, the tools are relatively simple ones drawn from ImageJ's core functions. These first tools represent only the beginning of our vision for VTEA. We are currently planning to leverage the SciJava framework to make VTEA easily extensible and continue to build both upon existing tools in ImageJ/Fiji and our own novel approaches.
 
