@@ -1,6 +1,5 @@
 **Sketches**
 ----
-**Contents**
 * TOC
 {:toc}
 
