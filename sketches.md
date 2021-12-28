@@ -3,6 +3,12 @@
 ## 7-click analysis
 
 *revision:*   *date:* 
+
+<table border="0">
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>
+
   
 The quickest path to interactive gating with one of the available image volumes.  This sketch walks    through only 7 clicks to load, segment and visualize cell scatter plots that can be gated and visualized. 
   
@@ -12,6 +18,9 @@ The quickest path to interactive gating with one of the available image volumes.
 |Functionality|Loading, Segmentation, Visualization|   
 |Time|<2 min| 
 |Image|AQP_Test.tif|
+   </td>     
+ </tr>
+</table>
 
 ## Refining image processing
   
