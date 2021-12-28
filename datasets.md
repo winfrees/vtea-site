@@ -9,6 +9,7 @@
 This a small four channel confocal 3D volume.  The four flourescence channels are, in order, DAPI, Phalloidin-A488, AQP2 and AQP1.  The volume contains a crosssection of a glomerulus, vessels and a field of proximal tubules, putative distal convoluted tubules and collecting duct.
 
 #### Image file
+
 |        |       |
 |:------:|:------:|
 |Filename|AQtest_human.tif| 
@@ -19,6 +20,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 |Reference|Woloshuk et al, Winfree et al|
 
 #### VTEA files
+
 |    Use   |    Filename   |
 |:------:|:------:|
 |Objects|XXXXXX.obx| 
@@ -31,6 +33,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 -----
 
 #### Image file
+
 |      |      |
 |:------:|:------:|
 |Filename|XXXX.tif| 
@@ -41,6 +44,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 |Reference| Winfree et al|
 
 #### VTEA files
+
 |    Use   |    Filename   |
 |:------:|:------:|
 |Objects|XXXXXX.obx| 
@@ -53,6 +57,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 -----
 
 #### Image file
+
 |      |      |
 |:------:|:------:|
 |Filename|XXXX.tif| 
@@ -63,6 +68,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 |Reference|Woloshuk et al, Winfree et al|
 
 #### VTEA files
+
 |    Use   |    Filename   |
 |:------:|:------:|
 |Objects|XXXXXX.obx| 
@@ -75,6 +81,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 -----
 
 #### Image file
+
 |      |      |
 |:------:|:------:|
 |Filename|XXXX.tif| 
@@ -85,6 +92,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 |Reference|Woloshuk et al, Winfree et al|
 
 #### VTEA files
+
 |    Use   |    Filename   |
 |:------:|:------:|
 |Objects|XXXXXX.obx| 
