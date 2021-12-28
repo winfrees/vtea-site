@@ -4,15 +4,15 @@
 
 *revision:*   *date:* 
 
-<table border="0">
+<table border=none>
  <tr>
-    <td border: none;>Place image here</td>
-    <td border: none;>The quickest path to interactive gating with one of the available image volumes.  This sketch walks    through just 7 clicks to load, segment and visualize cell scatter plots that can be gated and visualized.</td> 
-    <td border: none;>
+    <td>Place image here</td>
+    <td>The quickest path to interactive gating with one of the available image volumes.  This sketch walks    through just 7 clicks to load, segment and visualize cell scatter plots that can be gated and visualized.</td> 
+    <td>
      <table border="0">   
       <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
          <tr><td><span style="font-weight:bold">Functionality</span></td> <td>Loading, Segmentation, Visualization</td> </tr>
-         <tr><td><span style="font-weight:bold">Time</span></td> <td>2 min</td> </tr>
+         <tr><td><span style="font-weight:bold">Time</span></td> <td> <2 min</td> </tr>
      <tr><td><span style="font-weight:bold">Image</span></td> <td>AQtest_human.tif</td> </tr>
      </table>
      </td>
