@@ -1,4 +1,4 @@
-<h2>Sketches</h2>
+<p style="font-size:40px;"><b>Sketches</b></p>
 * TOC
 {:toc}
 
