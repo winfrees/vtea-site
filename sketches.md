@@ -6,19 +6,16 @@
 
 <table border="0">
  <tr>
-    <td>Lorem ipsum ...</td>
+    <td>Place image here</td>
+    <td>The quickest path to interactive gating with one of the available image volumes.  This sketch walks    through only 7     clicks to load, segment and visualize cell scatter plots that can be gated and visualized.</td> 
     <td>
-
-  
-The quickest path to interactive gating with one of the available image volumes.  This sketch walks    through only 7 clicks to load, segment and visualize cell scatter plots that can be gated and visualized. 
-  
-|      |      |
-|:------:|:------:|
-|Use|Introductory| 
-|Functionality|Loading, Segmentation, Visualization|   
-|Time|<2 min| 
-|Image|AQP_Test.tif|
-   </td>     
+     <table border="0">   
+         <tr><td>Level</td> <td>Introductory</td> </tr>
+         <tr><td>Functionality</td> <td>Loading, Segmentation, Visualization</td> </tr>
+         <tr><td>Time</td> <td>2 min</td> </tr>
+     <tr><td>Image</td> <td>AQtest_human.tif</td> </tr>
+     </table>
+    
  </tr>
 </table>
 
