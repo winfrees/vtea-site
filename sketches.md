@@ -1,5 +1,9 @@
 # Sketches
 ----
+**Contents**
+* TOC
+{:toc}
+
 ## 7-click analysis
 
 *revision:*   *date:* 
@@ -152,4 +156,4 @@
      </td>
  </tr>
 </table> 
-{:toc}
+
