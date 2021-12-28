@@ -1,4 +1,4 @@
-# Sketches
+**Sketches**
 ----
 **Contents**
 * TOC
