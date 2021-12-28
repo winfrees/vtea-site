@@ -15,7 +15,7 @@
          <tr><td>Time</td> <td>2 min</td> </tr>
      <tr><td>Image</td> <td>AQtest_human.tif</td> </tr>
      </table>
-    
+     </td>
  </tr>
 </table>
 
