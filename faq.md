@@ -15,15 +15,15 @@ We have successfully tested VTEA on CODEX datasets with >40 channels.  VTEA is l
 
 #### What is the largest image(filesize) VTEA can operate on?
 
-Our experience has only been limited to how large an image we can load into RAM.  The development of more efficient image loading strategies to circumvent this limitation is a topic of ongoing development.
+VTEA is only limited by how much RAM it can use and the maximum size of a single frame that can be loaded by FIJI and/or the installed Java version.  The development of more efficient image loading strategies to circumvent this limitation is a topic of ongoing development.
 
-#### Can I import my own segmentation map generated in a different tool (StarDist, illastik, etc.)?
+#### Can I import a segmentation map from a different tool (StarDist, illastik, etc.)?
 
 Yes.  This can be done by using the segmentation option, "Prelabelled Nuclei."
 
 #### Can I import features I've calculated in other tools (MorpholibJ, illastik, etc.)?
 
-Yes.  
+Yes.  This is the subject of a [Sketch](Sketch.md).
 
 #### Is there a citation for VTEA?
 
@@ -47,15 +47,6 @@ Software release on Zenodo [https://doi.org/10.5281/zenodo.5110084](https://doi.
 -----
 #### Can I adjust the image processing to improve the segmentation?
 
-#### 
-
 ### Explorer windows and gating
 -----
 #### Can I export images of my gated cells? 
-
-#### 
-
-
-
-
-
