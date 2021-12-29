@@ -10,7 +10,7 @@
 
 This a small four channel confocal 3D volume.  The four flourescence channels are, in order, DAPI, Phalloidin-A488, AQP2 and AQP1.  The volume contains a crosssection of a glomerulus, vessels and a field of proximal tubules, putative distal convoluted tubules and collecting duct.
 
-#### Image file
+<h4> Image file </h4>
 
 |        |       |
 |:------:|:------:|
@@ -21,7 +21,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 |Dimensions (microns)|635.9x635.9x40|
 |Reference|Woloshuk et al, Winfree et al|
 
-#### VTEA files
+<h4> VTEA files </h4>
 
 |    Use   |    Filename   |
 |:------:|:------:|
@@ -34,7 +34,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 ### Biopsy tissue 2
 -----
 
-#### Image file
+<h4> Image file </h4>
 
 |      |      |
 |:------:|:------:|
@@ -45,7 +45,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 |Dimensions (microns)|  |
 |Reference| Winfree et al|
 
-#### VTEA files
+<h4> VTEA files </h4>
 
 |    Use   |    Filename   |
 |:------:|:------:|
@@ -58,7 +58,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 ### Nephrectomy tissue 1
 -----
 
-#### Image file
+<h4> Image file </h4>
 
 |      |      |
 |:------:|:------:|
@@ -69,7 +69,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 |Dimensions (microns)|  |
 |Reference|Woloshuk et al, Winfree et al|
 
-#### VTEA files
+<h4> VTEA files </h4>
 
 |    Use   |    Filename   |
 |:------:|:------:|
@@ -82,7 +82,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 ### Nephrectomy tissue 2
 -----
 
-#### Image file
+<h4> Image file </h4>
 
 |      |      |
 |:------:|:------:|
@@ -93,7 +93,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 |Dimensions (microns)|  |
 |Reference|Woloshuk et al, Winfree et al|
 
-#### VTEA files
+<h4> VTEA files </h4>
 
 |    Use   |    Filename   |
 |:------:|:------:|
