@@ -23,9 +23,7 @@ Yes.  This can be done by using the segmentation option, "Prelabelled Nuclei."
 
 Yes.  
 
-#### Is there a citation for the VTEA?
-
-Citations are much appreciated.  Citations can be one or many of the following:
+#### Is there a citation for VTEA?
 
 Original publication, [https://doi.org/10.1681/ASN.2016091027](https://doi.org/10.1681/ASN.2016091027).
 
