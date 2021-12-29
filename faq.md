@@ -1,5 +1,7 @@
-# FAQ
-----
+<h1>FAQ</h1>
+* TOC
+{:toc}
+-----
 
 ### General Use
 -----
