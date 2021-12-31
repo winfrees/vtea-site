@@ -3,9 +3,9 @@
 
 ### Installation
 
-**Method 1.** The easiest method to install VTEA is using the [FIJI updater](https://imagej.net/plugins/updater).  To install VTEA select the update site: "and check the update site: “Volumetric Tissue Exploration and Analysis.”
+**Method 1.** The easiest method for installing VTEA is with the [FIJI updater](https://imagej.net/plugins/updater).  To install VTEA select the update site: "and check the update site: “Volumetric Tissue Exploration and Analysis.”
 
-Unfortunately, the Renjin libraries "jars" that come with FIJI are our of date and interfere with plotting of heatmaps and violin plots in VTEA.  Importantly,  the core VTEA functions, image processing, segmentation, cell classification and neighborhood analysis are not affected by this bug. To remedie this the following jars need to removed.  This is not an ideal approach and may _**break**_ other FIJI functionality.  Fortunately, [efforts](https://forum.image.sc/t/updating-version-of-renjin-supported-in-scijava/48497) are being made to bring FIJI up-to-date with the most recent releases of Renjin.  
+Unfortunately, the Renjin libraries, "jars", that come with FIJI are our of date and interfere with plotting of heatmaps and violin plots in VTEA.  Importantly,  the core VTEA functions, image processing, segmentation, cell classification and neighborhood analysis are not affected by this bug. To remedie this the following jars need to removed.  This is not an ideal approach and may _**break**_ other FIJI functionality.  Fortunately, [efforts](https://forum.image.sc/t/updating-version-of-renjin-supported-in-scijava/48497) are being made to bring FIJI up-to-date with the most recent releases of Renjin.  
 
 The following jar need to be removed from the Fiji/jars/ folder:
 
