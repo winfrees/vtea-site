@@ -2,7 +2,7 @@
 
 We developed VTEA as a tool for 3D tissue cytometry(histocytometry, 3DTC) of large 3D fluorescence light microscopy image volumes ranging from 50-100s of microns thick.  The objective was to unify image processing, segmentation, data exploration and analyis in one package. Our solution is predicated upon the idea that *image processing, segmentation and analysis of 3D image volumes is best implemented with a bidirectional interactive user interface from image processing to analysis*.
 
-**We tried to design a tool that is...**
+**We designed a tool that is...**
 
 **...free and easy to get.** We opted to use ImageJ/Fiji as the distribution platform because it has an excellent and robust community of contributors. Practically, it provides the mechanisms for updating, a number of image processing tools and is built on a simple and powerful extensible framework.
 
