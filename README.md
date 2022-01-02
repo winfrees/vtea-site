@@ -10,5 +10,5 @@ We developed VTEA as a tool for 3D tissue cytometry(histocytometry, 3DTC) of lar
 
 **...compatible with mesoscale 3D analysis.** We built segmentation to handle massive datasets and to operate seamlessly on an embedded database to enable analysis of 100's of thousands of cells and will incorporate tools for clustering and dimensionality reduction.
 
-**...built arround referencing the original image.** The power of 3DTC in VTEA enables the localization of identified cells in the analysis space in the original image, *in situ*, and in 3D with [ClearVolume](/plugins/clearvolume).
+**...built around referencing the original image.** The power of 3DTC in VTEA enables the localization of identified cells in the analysis space in the original image, *in situ*, and in 3D with [ClearVolume](/plugins/clearvolume).
 
