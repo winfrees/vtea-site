@@ -1,6 +1,6 @@
 <h2>Developing VTEA</h2>
 
-Changes and development of VTEA are welcome and ancouraged.  VTEA was rewritten with a SciJava framework to simplify the addtion of new functionality in image processing, segmentation and analysis.  Currently, there are three methods for suggesting or making changes or adding functionality. 
+Changes and development of VTEA are welcome and encouraged.  VTEA was rewritten with a SciJava framework to simplify the addtion of new functionality in image processing, segmentation and analysis.  Currently, there are three methods for suggesting or making changes or adding functionality. 
 
 * TOC
 {:toc}
