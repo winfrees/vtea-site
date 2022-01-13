@@ -12,7 +12,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 
 <h4> Image file </h4>
 
-|        |       |
+|        |        |
 |:------:|:------:|
 |Filename|AQtest_human.tif| 
 |Size|84.1 MB|   
@@ -20,6 +20,7 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 |Dimensions (pixels)|512x512x40|
 |Dimensions (microns)|635.9x635.9x40|
 |Reference|Woloshuk et al, Winfree et al|
+|Download|<a href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI"></a>|
 
 <h4> VTEA files </h4>
 
