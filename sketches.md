@@ -34,7 +34,7 @@
       <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
          <tr><td><span style="font-weight:bold">Functionality</span></td> <td>Loading, Image Processing, Segmentation</td> </tr>
          <tr><td><span style="font-weight:bold">Time</span></td> <td> <5 min</td> </tr>
-     <tr><td><span style="font-weight:bold">Image</span></td> <td>[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg)](https://doi.org/10.5281/zenodo.5816199)</td> </tr>
+     <tr><td><span style="font-weight:bold">Image</span></td> <td>Human kidney cortex</td> </tr>
      </table>
      </td>
  </tr>
