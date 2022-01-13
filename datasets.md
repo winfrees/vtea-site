@@ -6,6 +6,7 @@
 ## Human renal cortex
 
 ### Biopsy tissue 1
+<a href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI"></a>
 -----
 
 This a small four channel confocal 3D volume.  The four flourescence channels are, in order, DAPI, Phalloidin-A488, AQP2 and AQP1.  The volume contains a crosssection of a glomerulus, vessels and a field of proximal tubules, putative distal convoluted tubules and collecting duct.
@@ -20,7 +21,6 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 |Dimensions (pixels)|512x512x40|
 |Dimensions (microns)|635.9x635.9x40|
 |Reference|Woloshuk et al, Winfree et al|
-|Download|<a href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI"></a>|
 
 <h4> VTEA files </h4>
 
