@@ -55,7 +55,7 @@
       <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
          <tr><td><span style="font-weight:bold">Functionality</span></td> <td>Loading, Image Processing, Segmentation</td> </tr>
          <tr><td><span style="font-weight:bold">Time</span></td> <td> <5 min</td> </tr>
-     <tr><td><span style="font-weight:bold">Image</span></td><td>Kidney_Cortex_Human.tif<br><a href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI"></a></td></table>
+     <tr><td><span style="font-weight:bold">Image</span></td><td>Kidney_Cortex_Human.tif<br><a href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI"></a></td></tr></table>
      </td>
  </tr>
 </table> 
