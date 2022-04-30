@@ -4,7 +4,7 @@
 
 ## 7-click analysis
 
-*revision:*   *date:* 
+*revision:* 0.1   *date:* 4/30/2022
 
 <table border="0">
  <tr>
@@ -79,14 +79,16 @@
  </tr>
 </table> 
   
-## Supervised gating, visualization and classification
+## Supervised gating, visualization and labeling
 
-*revision:*   *date:* 
+*revision:* 0.1   *date:* 4/30/2022
 
 <table border="0">
  <tr>
-    <td>Place image here</td>
-    <td>Fill this text in.</td> 
+     <td><img class="fit-picture"
+     src="/vignettes/SupervisedGating/Gating.png"
+     alt="Supervised gating with visualization in VTEA."></td>
+    <td>This sketch introduces flow cytometry-like gating and subgating and image-regions-of-interest gating with visualization on the original image volume followed by manual cell instance labeling with these gates.</td> 
     <td>
      <table border="0">   
       <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
