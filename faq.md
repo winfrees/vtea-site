@@ -23,7 +23,7 @@ Yes.  This can be done by using the segmentation option, "Prelabelled Nuclei."
 
 #### Can I import features I've calculated in other tools (MorpholibJ, illastik, etc.)?
 
-Yes.  This is the subject of a [Sketch](Sketch.md).
+Yes.  This is the subject of a [Sketch](https://vtea.wiki/sketches.html#importing-segmentation).
 
 #### Is there a citation for VTEA?
 
