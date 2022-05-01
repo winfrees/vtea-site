@@ -71,7 +71,7 @@
 <table border="0">
  <tr>
     <td>Place image here</td>
-    <td>Fill this text in.</td> 
+    <td>This sketch shows how to import a segmentation performed with a separate tool, such as Cellpose, etc.</td> 
     <td>
      <table border="0">   
        <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
