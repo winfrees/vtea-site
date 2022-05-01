@@ -7,20 +7,20 @@
 *revision:* 0.1   *date:* 4/30/2022
 
 <table border="0">
- <tr>
+<tr>
     <td><img class="fit-picture"
      src="/vignettes/7Click/7Click.png"
      alt="Screenshot of VTEA in action."></td>
     <td>The quickest path to interactive gating with one of the available image volumes.  This sketch walks    through just 7 clicks to load, segment and visualize cell scatter plots that can be gated and visualized.</td> 
     <td>
      <table border="0">   
-      <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
-         <tr><td><span style="font-weight:bold">Functionality</span></td> <td>Loading, Segmentation, Visualization</td> </tr>
-         <tr><td><span style="font-weight:bold">Time</span></td> <td> <2 min</td> </tr>
-         <tr><td><span style="font-weight:bold">Image</span></td><td>Kidney_Cortex_Human.tif<br><a href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI"></a></td></tr>
+       <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
+       <tr><td><span style="font-weight:bold">Functionality</span></td> <td>Loading, Segmentation, Visualization</td> </tr>
+       <tr><td><span style="font-weight:bold">Time</span></td> <td> <2 min</td> </tr>
+       <tr><td><span style="font-weight:bold">Image</span></td><td>Kidney_Cortex_Human.tif<br><a href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI">      </a></td></tr>
      </table>
-     </td>
- </tr>
+    </td>
+</tr>
 </table>
 
 ## Refining image processing
@@ -70,12 +70,12 @@
     <td>Fill this text in.</td> 
     <td>
      <table border="0">   
-      <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
-         <tr><td><span style="font-weight:bold">Functionality</span></td> <td>Loading, Image Processing, Segmentation</td> </tr>
-         <tr><td><span style="font-weight:bold">Time</span></td> <td> <5 min</td> </tr>
-     <tr><td><span style="font-weight:bold">Image</span></td> <td>Kidney_Cortex_Human.tif<br><a href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI"></a></td></tr>
+       <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
+       <tr><td><span style="font-weight:bold">Functionality</span></td> <td>Loading, Image Processing, Segmentation</td> </tr>
+       <tr><td><span style="font-weight:bold">Time</span></td> <td> <5 min</td></tr>
+       <tr><td><span style="font-weight:bold">Image</span></td> <td>Kidney_Cortex_Human.tif<br><a  href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI">  </a></td></tr>
      </table>
-     </td>
+    </td>
  </tr>
 </table> 
   
@@ -88,18 +88,17 @@
      <td><img class="fit-picture"
      src="/vignettes/SupervisedGating/Gating.png"
      alt="Supervised gating with visualization in VTEA."></td>
-    <td>This sketch introduces flow cytometry-like gating and subgating and image-regions-of-interest gating with visualization on the original image volume followed by manual cell instance labeling with these gates.</td> 
+    <td>This sketch introduces flow cytometry-like gating and subgating and image-regions-of-interest gating with     visualization on the original image volume followed by manual cell instance labeling with these gates.</td> 
     <td>
      <table border="0">   
-      <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
-         <tr><td><span style="font-weight:bold">Functionality</span></td> <td>Loading Datasets, Gating, Visualization, Classification</td> </tr>
-         <tr><td><span style="font-weight:bold">Time</span></td> <td> <5 min</td> </tr>
-     <tr><td><span style="font-weight:bold">Image</td><td>Kidney_Cortex_Human.tif<br><a href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI"></a></td></tr>
+       <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td></tr>
+       <tr><td><span style="font-weight:bold">Functionality</span></td> <td>Loading Datasets, Gating, Visualization, Classification</td></tr>
+       <tr><td><span style="font-weight:bold">Time</span></td><td><5 min</td></tr>
+       <tr><td><span style="font-weight:bold">Image</span></td><td>Kidney_Cortex_Human.tif<br><a href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI"></a></td></tr>
      </table>
-     </td>
+  </td>
  </tr>
 </table> 
-
   
 ## Unsupervised classification and visualization
 
