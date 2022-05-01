@@ -29,7 +29,9 @@
  
 <table border="0">
  <tr>
-    <td>Place image here</td>
+    <td><img class="fit-picture"
+     src="/vignettes/ImageProcessing/ImageProcessing.png"
+     alt="Screenshot of image pre-processing."></td>
     <td>This sketch demostrates the use and application of image processing built into VTEA.  The VTEA implmentations use existing approached in ImageJ/FIJI and other ImageJ plugins.</td> 
     <td>
      <table border="0">   
@@ -48,8 +50,10 @@
 
 <table border="0">
  <tr>
-    <td>Place image here</td>
-    <td>Fill this text in.</td> 
+    <td><img class="fit-picture"
+     src="/vignettes/RefiningSegmentation/RefiningSegmentation.png"
+     alt="Screenshot of refining VTEA segmentation."></td>
+    <td> This sketch demonstrates adjusting how to preview the effect of parameter selection on VTEA segmentation including image pre-processing.</td> 
     <td>
      <table border="0">   
       <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
