@@ -18,15 +18,17 @@ This short sketch demonstrates how to analyze an image in VTEA with only seven m
 
 ## Step 1: Start VTEA...
 
-<table border = "0"><tr><td>
+<table border="0"><tr><td>
 VTEA runs as a plugin inside of FIJI (ImageJ).  Once VTEA is <a href = https://vtea.wiki/starting.html>installed in FIJI<a/>, select the VTEA menu and then "VTEA 1.1.6".  The version number will change with ongoing updates.  
  </td></tr>
   <tr><td>
-
+<div align="center">
+       
 <img class="rounded"
      src="/vignettes/7Click/step_1.png"
      alt="Screenshot of VTEA in action."
     style="float:left;width:600px;height:auto;">
+         </div>       
        </td>
        </tr>
  </table>      
@@ -39,11 +41,12 @@ If no images are open in FIJI/ImageJ, use the open image button <img src="/vigne
     style="float:center;width:30px;height:auto;">.  This will open up a standard FIJI open image file menu and automatically load an image into the VTEA workflow.   
  </td></tr>
   <tr><td>
-
+<div align="center">
 <img class="rounded"
      src="/vignettes/7Click/step_2.png"
      alt="Screenshot of VTEA in action."
     style="float:left;width:600px;height:auto;">
+       </div>  
           </td>
        </tr>
  </table>      
@@ -51,29 +54,39 @@ If no images are open in FIJI/ImageJ, use the open image button <img src="/vigne
      
 ## Step 3: Process an image...
 
-<table border = "0"><tr><td>
-Assuming the image quality is sufficient for segmentation, preprocessing can be skipped. A <a href = https://vtea.wiki/sketches.html#refining-image-processing)>separate sketch</a> describes image processing and VTEA's builtin functionality that borrows from FIJI.
+<table border="0"><tr><td>
+Assuming the image quality is sufficient for segmentation, preprocessing can be skipped. A <a href = https://vtea.wiki/sketches.html#refining-image-processing)>separate sketch</a> describes image processing and VTEA's  functionality including combining image processing steps and previewing.
  </td></tr>
-  <tr><td>
+   <tr><td><div align="center">
 
 <img class="rounded"
      src="/vignettes/7Click/step_2_finish.png"
      alt="Screenshot of VTEA in action."
-    style="float:left;width:800px;height:auto;">
-                   </td>
-       </tr>
+    style="float:left;width:600px;height:auto;">
+       </div></td></tr>
  </table>     
     
 ## Step 4: Segment an image...
+<table border="0"><tr><td>
+ </td></tr>       
+ <tr><td><div align="center">
 
 <img class="rounded"
      src="/vignettes/7Click/step_4.png"
      alt="Screenshot of VTEA in action."
-    style="float:left;width:400px;height:auto;">
+    style="float:left;width:600px;height:auto;">
+           </div></td></tr>
+ </table>     
     
 ## Analyze results...
+        
+<table border="0"><tr><td>
+ </td></tr>       
+ <tr><td><div align="center">
 
 <img class="rounded"
      src="/vignettes/7Click/step_5.png"
      alt="Screenshot of VTEA in action."
-    style="float:left;width:400px;height:auto;">
+    style="float:left;width:600px;height:auto;">
+        </div></td></tr>
+ </table>     
