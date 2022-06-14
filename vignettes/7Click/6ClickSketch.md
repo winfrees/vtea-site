@@ -19,10 +19,11 @@ This short sketch demonstrates how to analyze an image in VTEA with only seven m
 ## Step 1: Start VTEA...
 
 <table border="0"><tr><td>
-VTEA runs as a plugin inside of FIJI (ImageJ).  Once VTEA is [installed in FIJI](https://vtea.wiki/starting.html), select the VTEA menu <b>(Click #1)</b> and then "VTEA 1.1.6" <b>(Click #2)</b>.  The version number will change with ongoing updates.  
+VTEA runs as a FIJI (ImageJ) plugin.  Once VTEA is <a href = "https://vtea.wiki/starting.html">installed</a>, select the VTEA menu <b>(Click #1)</b> and then "VTEA 1.1.6" <b>(Click #2)</b>.  The version number will change with ongoing updates.  
  </td></tr>
   <tr><td>
 <div align="center">
+       
        
 <img class="rounded"
      src="/vignettes/7Click/step_1.png"
@@ -57,7 +58,7 @@ If no images are open in FIJI/ImageJ, use the open image button <img src="/vigne
 <table border="0"><tr><td>
 If the image quality is sufficient for segmentation, preprocessing can be skipped by selecting: <img src="/vignettes/7Click/step_2_process.png"
      alt="Process button"
-    style="float:center;width:80px;height:auto;"> <b>(Click #4)</b>. A [separate sketch](https://vtea.wiki/sketches.html#refining-image-processing) describes image processing and VTEA's functionality including combining image processing steps and previewing.
+    style="float:center;width:80px;height:auto;"> <b>(Click #4)</b>. A <a href = "https://vtea.wiki/sketches.html#refining-image-processing">separate sketch</a> describes image processing and VTEA's functionality including combining image processing steps and previewing.
  </td></tr>
    <tr><td><div align="center">
 
