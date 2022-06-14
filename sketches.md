@@ -3,8 +3,9 @@
 {:toc}
 
 ## 6-click analysis 
-*revision:* 0.1   *date:* 6/13/2022
+
 <form action="/vignettes/7Click/6ClickSketch.html" method="get" target="_blank"><button type="submit">start</button></form> 
+*revision:* 0.1   *date:* 6/13/2022
 
 <table border="0">
 <tr>
@@ -24,6 +25,8 @@
 </table>
 
 ## Refining image processing
+
+<form action="/vignettes/ImageProcessing/ImageProcessing.html" method="get" target="_blank"><button type="submit">start</button></form>
 *revision:*   *date:* 
  
 <table border="0">
@@ -44,6 +47,7 @@
 </table> 
  
 ## Testing segmentation
+<form action="/vignettes/Segmentation/Segmentation.html" method="get" target="_blank"><button type="submit">start</button></form>
 *revision:*   *date:* 
 
 <table border="0">
