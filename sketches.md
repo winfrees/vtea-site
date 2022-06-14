@@ -4,7 +4,9 @@
 
 ## 6-click analysis
 
-*revision:* 0.1   *date:* 4/30/2022
+[Start](/vignettes/7Click/6ClickSketch.md){: .btn}
+
+*revision:* 0.1   *date:* 6/13/2022
 
 <table border="0">
 <tr>
