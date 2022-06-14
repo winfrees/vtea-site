@@ -4,10 +4,10 @@
        <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
        <tr><td><span style="font-weight:bold">Functionality</span></td> <td>Loading, Segmentation, Visualization</td> </tr>
        <tr><td><span style="font-weight:bold">Time</span></td> <td> <2 min</td> </tr>
-       <tr><td><span style="font-weight:bold">Image</span></td><td>Kidney_Cortex_Human.tif<br><a href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI">      </a></td></tr>
+       <tr><td><span style="font-weight:bold">Image</span></td><td>Kidney_Cortex_Human.tif<br><a href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI"></a></td></tr>
      </table>
 
-This short sketch demonstrates how to analyze an image in VTEA with only seven mouse-clicks.  There are four steps in 7-clicks:
+This short sketch demonstrates how to analyze an image in VTEA with only seven mouse-clicks.  There are four steps in 6-clicks:
 
 <ol>
   <li>Start VTEA: 2-clicks</li>
@@ -19,7 +19,7 @@ This short sketch demonstrates how to analyze an image in VTEA with only seven m
 ## Step 1: Start VTEA...
 
 <table border="0"><tr><td>
-VTEA runs as a plugin inside of FIJI (ImageJ).  Once VTEA is <a href = https://vtea.wiki/starting.html>installed in FIJI<a/>, select the VTEA menu <b>(Click #1)</b> and then "VTEA 1.1.6" <b>(Click #2)</b>.  The version number will change with ongoing updates.  
+VTEA runs as a plugin inside of FIJI (ImageJ).  Once VTEA is <a href = https://vtea.wiki/starting.html>installed in FIJI</a>, select the VTEA menu <b>(Click #1)</b> and then "VTEA 1.1.6" <b>(Click #2)</b>.  The version number will change with ongoing updates.  
  </td></tr>
   <tr><td>
 <div align="center">
