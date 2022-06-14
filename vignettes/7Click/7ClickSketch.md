@@ -19,7 +19,7 @@ This short sketch demonstrates how to analyze an image in VTEA with only seven m
 ## Step 1: Start VTEA...
 
 <table border="0"><tr><td>
-VTEA runs as a plugin inside of FIJI (ImageJ).  Once VTEA is <a href = https://vtea.wiki/starting.html>installed in FIJI<a/>, select the VTEA menu and then "VTEA 1.1.6".  The version number will change with ongoing updates.  
+VTEA runs as a plugin inside of FIJI (ImageJ).  Once VTEA is <a href = https://vtea.wiki/starting.html>installed in FIJI<a/>, select the VTEA menu <b>(Click #1)</b> and then "VTEA 1.1.6" <b>(Click #2)</b>.  The version number will change with ongoing updates.  
  </td></tr>
   <tr><td>
 <div align="center">
@@ -37,8 +37,8 @@ VTEA runs as a plugin inside of FIJI (ImageJ).  Once VTEA is <a href = https://v
 
 <table border = "0"><tr><td>
 If no images are open in FIJI/ImageJ, use the open image button <img src="/vignettes/7Click/step_2_button.png"
-     alt="Screenshot of VTEA in action."
-    style="float:center;width:30px;height:auto;">.  This will open up a standard FIJI open image file menu and automatically load an image into the VTEA workflow.   
+     alt="Open image with ImageJ"
+    style="float:center;width:30px;height:auto;"> <b>(Click #3)</b>.  This will open up a standard FIJI open image file menu and automatically load an image into the VTEA workflow.   
  </td></tr>
   <tr><td>
 <div align="center">
@@ -55,7 +55,9 @@ If no images are open in FIJI/ImageJ, use the open image button <img src="/vigne
 ## Step 3: Process an image...
 
 <table border="0"><tr><td>
-Assuming the image quality is sufficient for segmentation, preprocessing can be skipped. A <a href = https://vtea.wiki/sketches.html#refining-image-processing)>separate sketch</a> describes image processing and VTEA's  functionality including combining image processing steps and previewing.
+If the image quality is sufficient for segmentation, preprocessing can be skipped by selecting: <img src="/vignettes/7Click/step_2_process.png"
+     alt="Process button"
+    style="float:center;width:80px;height:auto;"> <b>(Click #4)</b>. A <a href = https://vtea.wiki/sketches.html#refining-image-processing)>separate sketch</a> describes image processing and VTEA's functionality including combining image processing steps and previewing.
  </td></tr>
    <tr><td><div align="center">
 
@@ -68,6 +70,14 @@ Assuming the image quality is sufficient for segmentation, preprocessing can be 
     
 ## Step 4: Segment an image...
 <table border="0"><tr><td>
+Two windows are used to setup segementation in VTEA, the settings window and, if applicable, a threshold preview.  Segementation can be previewed by drawing an ROI on the threshold preview and selecting the eye button, <img src="/vignettes/7Click/eye.png"
+     alt="Save and close settings."
+    style="float:center;width:30px;height:auto;">. VTEA's default segmentation (in 2D or 3D) is a connected components approach that uses pixel intensity or threshold calculations to segment 2D regions with watershed spliting and in 3D fuses overlapping 2D regions based on the distance between centroids of nearby 2D regions.  To continue close the setup window by clicking  on the green checkmark button <img src="/vignettes/7Click/check_box.png"
+     alt="Save and close settings."
+    style="float:center;width:30px;height:auto;"> <b>(Click #5)</b>.  To start the segmentation selct the "Find Objects" button, <img src="/vignettes/7Click/find_objects.png"
+     alt="FInd Objects."
+    style="float:center;width:120px;height:auto;"><b>(Click #6)</b>.
+    
  </td></tr>       
  <tr><td><div align="center">
 
