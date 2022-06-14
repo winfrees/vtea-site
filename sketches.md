@@ -27,7 +27,7 @@
 ## Refining image processing
 
 <form action="/vignettes/ImageProcessing/ImageProcessing.html" method="get" target="_blank"><button type="submit">start</button></form>
-*revision:*   *date:* 
+*revision:* 0.1   *date:* 6/14/2022
  
 <table border="0">
  <tr>
