@@ -3,8 +3,8 @@
 {:toc}
 
 ## 6-click analysis 
-
-<form action="/vignettes/7Click/6ClickSketch.html" method="get" target="_blank"><button type="submit">start</button></form> *revision:* 0.1   *date:* 6/13/2022
+*revision:* 0.1   *date:* 6/13/2022
+<form action="/vignettes/7Click/6ClickSketch.html" method="get" target="_blank"><button type="submit">start</button></form> 
 
 <table border="0">
 <tr>
@@ -24,7 +24,6 @@
 </table>
 
 ## Refining image processing
-  
 *revision:*   *date:* 
  
 <table border="0">
@@ -45,7 +44,6 @@
 </table> 
  
 ## Testing segmentation
-
 *revision:*   *date:* 
 
 <table border="0">
@@ -65,7 +63,6 @@
 </table> 
   
 ## Importing segmentation
-
 *revision:*   *date:* 
 
 <table border="0">
@@ -84,7 +81,6 @@
 </table> 
   
 ## Supervised gating, visualization and labeling
-
 *revision:* 0.1   *date:* 4/30/2022
 
 <table border="0">
@@ -105,7 +101,6 @@
 </table> 
   
 ## Unsupervised classification and visualization
-
 *revision:*   *date:* 
 
 <table border="0">
@@ -124,7 +119,6 @@
 </table> 
   
 ## Neighborhood generation and analysis
-
 *revision:*   *date:* 
 
 <table border="0">
@@ -143,7 +137,6 @@
 </table> 
   
 ## Sharing results and outputs
-
 *revision:*   *date:* 
 
 <table border="0">
