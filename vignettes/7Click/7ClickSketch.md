@@ -1,4 +1,4 @@
-<h2>7-clicks from image to analysis</h2>
+<h2>6-clicks from image to analysis</h2>
 
 <table border="0">   
        <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
@@ -11,7 +11,7 @@ This short sketch demonstrates how to analyze an image in VTEA with only seven m
 
 <ol>
   <li>Start VTEA: 2-clicks</li>
-  <li>Load an image: 3-clicks</li>
+  <li>Load an image: 1-click</li>
   <li>Process an image: 1-click</li>
   <li>Segment an image: 2-clicks</li>
 </ol>
@@ -95,7 +95,7 @@ Two windows are used to setup segementation in VTEA, the settings window and, if
  <tr><td><div align="center">
 
 <img class="rounded"
-     src="/vignettes/7Click/step_5.png"
+     src="/vignettes/7Click/step_5_result.png"
      alt="Screenshot of VTEA in action."
     style="float:left;width:600px;height:auto;">
         </div></td></tr>
