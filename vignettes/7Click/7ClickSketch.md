@@ -7,7 +7,7 @@
        <tr><td><span style="font-weight:bold">Image</span></td><td>Kidney_Cortex_Human.tif<br><a href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI"></a></td></tr>
      </table>
 
-This short sketch demonstrates how to analyze an image in VTEA with only seven mouse-clicks.  There are four steps in 6-clicks:
+This short sketch demonstrates how to analyze an image in VTEA with only seven mouse-clicks.  There are four steps in 7-clicks:
 
 <ol>
   <li>Start VTEA: 2-clicks</li>
