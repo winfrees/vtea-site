@@ -13,7 +13,7 @@ This short sketch demonstrates how to analyze an image in VTEA with only seven m
   <li>Start VTEA: 2-clicks</li>
   <li>Load an image: 1-click</li>
   <li>Process an image: 1-click</li>
-  <li>Segment an image: 2-clicks</li>
+  <li>Segment an image: 3-clicks</li>
 </ol>
 
 ## Step 1: Start VTEA...
