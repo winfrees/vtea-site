@@ -88,7 +88,7 @@ Two windows are used to setup segementation in VTEA, the settings window and, if
      alt="Save and close settings."
     style="float:center;width:30px;height:auto;">. VTEA's default segmentation (in 2D or 3D) is a connected components approach that uses pixel intensity or threshold calculations to segment 2D regions with watershed spliting and in 3D fuses overlapping 2D regions based on the distance between centroids of nearby 2D regions.  To continue close the setup window by clicking  on the green checkmark button <img src="/vignettes/7Click/check_box.png"
      alt="Save and close settings."
-    style="float:center;width:30px;height:auto;"> <b>(Click #6)</b>.  To start the segmentation selct the "Find Objects" button, <img src="/vignettes/7Click/find_objects.png"
+    style="float:center;width:30px;height:auto;"> <b>(Click #6)</b>.  To start the segmentation select the "Find Objects" button, <img src="/vignettes/7Click/find_objects.png"
      alt="FInd Objects."
     style="float:center;width:120px;height:auto;"><b>(Click #7)</b>.
     
