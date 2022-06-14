@@ -4,7 +4,7 @@
 
 ## 6-click analysis
 
-<form action="/vignettes/7Click/6ClickSketch.md" method="get" target="_blank"><button type="submit">start</button></form>
+<form action="/vignettes/7Click/6ClickSketch.html" method="get" target="_blank"><button type="submit">start</button></form>
 
 *revision:* 0.1   *date:* 6/13/2022
 
