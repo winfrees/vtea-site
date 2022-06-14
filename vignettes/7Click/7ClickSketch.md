@@ -105,6 +105,9 @@ Two windows are used to setup segementation in VTEA, the settings window and, if
 ## Analyze results...
         
 <table border="0"><tr><td>
+       
+Once the segmentation and measurements are made on each segmented nucleus, VTEA's MicroExplorer window opens with a scatter plot of the processed data.  In this scatter plot every dot represents a segmented cell.  Where the dot is ploted is dependent upon the measured features plotted on the two axes and set by the drop-down menus for **X**, **Y** and **Color** respectively.  <a href = "https://vtea.wiki/sketches.html#supervised-gating-visualization-and-labeling">Gating, quantitative analysis</a> and <a href = "https://vtea.wiki/sketches.html#unsupervised-classification-and-visualization">cell classification using machine learning</a> are covered in additional sketches.
+          
  </td></tr>       
  <tr><td><div align="center">
 
