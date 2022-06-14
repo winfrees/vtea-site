@@ -2,7 +2,7 @@
 * TOC
 {:toc}
 
-## 7-click analysis
+## 6-click analysis
 
 *revision:* 0.1   *date:* 4/30/2022
 
@@ -11,7 +11,7 @@
     <td><img class="fit-picture"
      src="/vignettes/7Click/7Click.png"
      alt="Screenshot of VTEA in action."></td>
-    <td>The quickest path to interactive gating with one of the available image volumes.  This sketch walks    through just 7 clicks to load, segment and visualize cell scatter plots that can be gated and visualized.</td> 
+    <td>The quickest path to interactive gating with one of the available image volumes.  This sketch walks through just 6 clicks to load, segment and generate scatter-plots of cell features that can be gated and visualized in the original image volumes.</td> 
     <td>
      <table border="0">   
        <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
