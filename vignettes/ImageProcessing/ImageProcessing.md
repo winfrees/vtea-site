@@ -52,7 +52,7 @@ If no images are open in FIJI/ImageJ, use the open image button <img src="/vigne
 <p>Image processing steps can be added by selecting <img src="/vignettes/ImageProcessing/add.png"
      alt="add step"
     style="float:center;width:30px;height:auto;">.  Image processing steps are sequential and the position is given in the menu.</p>
-      <p>Image processing techniques are accessible from the drop down menu labeled, "Method".  The available techniques included are designed to correct technical errors (noise, attenuation of intensity with depth) or facilitate contrast (background subtraction).  The avaialable techniques can be expanded using <a href = "https://vtea.wiki/develop.html#use-the-barebones-vtea-plugin-project">VTEA's extensible framework </a>.</p>
+      <p>Image processing techniques are accessible from the drop down menu labeled, "Method".  The available techniques included are designed to correct technical errors (noise, attenuation of intensity with depth) or facilitate contrast (background subtraction).  The techniques can be expanded using <a href = "https://vtea.wiki/develop.html#use-the-barebones-vtea-plugin-project">VTEA's extensible framework </a>.</p>
  </td></tr>
    <tr><td><div align="center">
 <img class="rounded"
@@ -60,13 +60,17 @@ If no images are open in FIJI/ImageJ, use the open image button <img src="/vigne
      alt="Screenshot of VTEA in action."
     style="float:left;width:600px;height:auto;">
        </div></td></tr>
-      
+ </td></tr>
+ <tr><td>
+<p>Image processing steps can be previewed by selecting <img src="/vignettes/ImageProcessing/eye.png"
+     alt="add step"
+    style="float:center;width:30px;height:auto;"> and z-position, if applicable, scrolled.  If multiple image processing steps are entered</p>
  </td></tr>
     <tr><td><div align="center">
 <img class="rounded"
      src="/vignettes/ImageProcessing/preview_processing.png"
      alt="Screenshot of VTEA in action."
-    style="float:left;width:600px;height:auto;">
+    style="float:left;width:400px;height:auto;">
        </div></td></tr>
  </table>     
     
