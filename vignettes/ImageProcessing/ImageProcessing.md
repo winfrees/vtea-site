@@ -64,13 +64,40 @@ If no images are open in FIJI/ImageJ, use the open image button <img src="/vigne
  <tr><td>
 <p>Image processing steps can be previewed by selecting <img src="/vignettes/ImageProcessing/eye.png"
      alt="add step"
-    style="float:center;width:30px;height:auto;"> and z-position, if applicable, scrolled.  If multiple image processing steps are entered</p>
+    style="float:center;width:30px;height:auto;"> and z-position, if applicable, scrolled.  
  </td></tr>
     <tr><td><div align="center">
 <img class="rounded"
      src="/vignettes/ImageProcessing/preview_processing.png"
      alt="Screenshot of VTEA in action."
-    style="float:left;width:400px;height:auto;">
+    style="float:left;width:300px;height:auto;">
        </div></td></tr>
- </table>     
+       <tr><td>
+       If multiple image processing steps are entered, the selecting the second <img src="/vignettes/ImageProcessing/eye.png"
+     alt="add step"
+    style="float:center;width:30px;height:auto;"></p> button.
+    </td></tr>
+        <tr><td><div align="center">
+<img class="rounded"
+     src="/vignettes/ImageProcessing/preview_multiple.png"
+     alt="Screenshot of VTEA in action."
+    style="float:left;width:600px;height:auto;">
+       </div></td></tr>
+ </table>   
+ 
+ ## Step 3: Start the image processing...
+
+<table border="0"><tr><td>
+<p>Start the processing by selecting <img src="/vignettes/ImageProcessing/process.png"
+     alt="add step"
+    style="float:center;width:120px;height:auto;">.  Image processing steps may be saved via the "Start" menu.
+      </p></td></tr>
+      /td></tr>
+        <tr><td><div align="center">
+<img class="rounded"
+     src="/vignettes/ImageProcessing/start.png"
+     alt="Screenshot of VTEA in action."
+    style="float:left;width:300px;height:auto;">
+       </div></td></tr>
+ </table>   
     
