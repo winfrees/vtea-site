@@ -12,7 +12,7 @@ This short sketch demonstrates how to add, preview and customize image processin
 ## Step 1: Start VTEA...
 
 <table border="0"><tr><td>
-VTEA runs as a FIJI (ImageJ) plugin.  Once VTEA is <a href = "https://vtea.wiki/starting.html">installed</a>, select the VTEA menu and then "VTEA 1.1.6" <b>(Click #2)</b>.  The version number will change with ongoing updates.  
+VTEA runs as a FIJI (ImageJ) plugin.  Once VTEA is <a href = "https://vtea.wiki/starting.html">installed</a>, select the VTEA menu and then "VTEA 1.1.6" .  The version number will change with ongoing updates.  
  </td></tr>
   <tr><td>
 <div align="center">
@@ -49,14 +49,22 @@ If no images are open in FIJI/ImageJ, use the open image button <img src="/vigne
 ## Step 3: Add a image processing step...
 
 <table border="0"><tr><td>
-If the image quality is sufficient for segmentation, preprocessing can be skipped by selecting: <img src="/vignettes/7Click/step_2_process.png"
-     alt="Process button"
-    style="float:center;width:80px;height:auto;"> <b>(Click #4)</b>. A <a href = "https://vtea.wiki/sketches.html#refining-image-processing">separate sketch</a> describes image processing and VTEA's functionality including combining image processing steps and previewing.
+<p>Image processing steps can be added by selecting <img src="/vignettes/ImageProcessing/add.png"
+     alt="add step"
+    style="float:center;width:30px;height:auto;">.  Image processing steps are sequential and the position is given in the menu.</p>
+      <p>Image processing techniques are accessible from the drop down menu labeled, "Method".  The available techniques included are designed to correct technical errors (noise, attenuation of intensity with depth) or facilitate contrast (background subtraction).  The avaialable techniques can be expanded using <a href = "https://vtea.wiki/develop.html#use-the-barebones-vtea-plugin-project">VTEA's extensible framework </a>.</p>
  </td></tr>
    <tr><td><div align="center">
-
 <img class="rounded"
-     src="/vignettes/7Click/step_2_finish.png"
+     src="/vignettes/ImageProcessing/select_processing.png"
+     alt="Screenshot of VTEA in action."
+    style="float:left;width:600px;height:auto;">
+       </div></td></tr>
+      
+ </td></tr>
+    <tr><td><div align="center">
+<img class="rounded"
+     src="/vignettes/ImageProcessing/preview_processing.png"
      alt="Screenshot of VTEA in action."
     style="float:left;width:600px;height:auto;">
        </div></td></tr>
