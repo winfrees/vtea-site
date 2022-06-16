@@ -73,9 +73,9 @@ If no images are open in FIJI/ImageJ, use the open image button <img src="/vigne
     style="float:left;width:300px;height:auto;">
        </div></td></tr>
        <tr><td>
-       If multiple image processing steps are entered, the selecting the second <img src="/vignettes/ImageProcessing/eye.png"
+       If multiple image processing steps are entered, selecting the second <img src="/vignettes/ImageProcessing/eye.png"
      alt="add step"
-    style="float:center;width:30px;height:auto;"></p> button.
+    style="float:center;width:30px;height:auto;"></p> button previews all image processing steps.
     </td></tr>
         <tr><td><div align="center">
 <img class="rounded"
@@ -90,9 +90,8 @@ If no images are open in FIJI/ImageJ, use the open image button <img src="/vigne
 <table border="0"><tr><td>
 <p>Start the processing by selecting <img src="/vignettes/ImageProcessing/process.png"
      alt="add step"
-    style="float:center;width:120px;height:auto;">.  Image processing steps may be saved via the "Start" menu.
+    style="float:center;width:120px;height:auto;">.  Image processing steps may be saved and reloaded via the "Start" menu for added reproducibility. 
       </p></td></tr>
-      /td></tr>
         <tr><td><div align="center">
 <img class="rounded"
      src="/vignettes/ImageProcessing/start.png"
