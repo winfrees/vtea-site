@@ -32,13 +32,13 @@ This a small four channel confocal 3D volume.  The four flourescence channels ar
 |Reference|Winfree et al|
 
 ### Biopsy tissue 2
------
+<a href="https://doi.org/10.5281/zenodo.5826144"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5826144.svg" alt="DOI"></a>
 
 <h4> Image file </h4>
 
 |      |      |
 |:------:|:------:|
-|Filename|XXXX.tif| 
+|Filename|Kidney_Cortex_Human_CODEX.tif| 
 |Size|XXXX|   
 |Modality|Widefield/CODEX| 
 |Dimensions (pixels)| |
