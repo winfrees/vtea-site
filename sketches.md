@@ -47,8 +47,8 @@
 </table> 
  
 ## Testing segmentation
-<form action="/vignettes/Segmentation/Segmentation.html" method="get" target="_blank"><button type="submit">start</button></form>
-*revision:*   *date:* 
+Drafting release...
+*revision:* Coming soon.   *date:* TBD
 
 <table border="0">
  <tr>
@@ -67,7 +67,8 @@
 </table> 
   
 ## Importing segmentation
-*revision:*   *date:* 
+Drafting release...
+*revision:* Coming soon.   *date:* TBD
 
 <table border="0">
  <tr>
@@ -85,6 +86,7 @@
 </table> 
   
 ## Supervised gating, visualization and labeling
+Drafting new release...
 *revision:* 0.1   *date:* 4/30/2022
 
 <table border="0">
@@ -105,7 +107,8 @@
 </table> 
   
 ## Unsupervised classification and visualization
-*revision:*   *date:* 
+Planned release...
+*revision:* TBD   *date:* TBD
 
 <table border="0">
  <tr>
@@ -123,7 +126,8 @@
 </table> 
   
 ## Neighborhood generation and analysis
-*revision:*   *date:* 
+Planned release...
+*revision:* TBD   *date:* TBD
 
 <table border="0">
  <tr>
@@ -141,7 +145,8 @@
 </table> 
   
 ## Sharing results and outputs
-*revision:*   *date:* 
+Planned release...
+*revision:* TBD   *date:* TBD
 
 <table border="0">
  <tr>
