@@ -36,7 +36,7 @@ This a small four channel confocal 3D volume.  The four fluorescence channels ar
 ### Biopsy tissue 2
 <a href="https://doi.org/10.5281/zenodo.5826144"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5826144.svg" alt="DOI"></a>
 
-This is an image volume of a kideny biopsy collected with a cyclic multiplexed immunofluorescense approach, <a href = "https://pubmed.ncbi.nlm.nih.gov/30078711/">CODEX</a>.
+This is an image volume of a kidney biopsy collected with a cyclic multiplexed immunofluorescense approach, <a href = "https://pubmed.ncbi.nlm.nih.gov/30078711/">CODEX</a>.
 
 <h4> Image file </h4>
 
@@ -63,7 +63,7 @@ This is an image volume of a kideny biopsy collected with a cyclic multiplexed i
 ### Nephrectomy tissue 1
 <a href="https://doi.org/10.5281/zenodo.5842108"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5842108.svg" alt="DOI"></a>
 
-<p>This a large four channel confocal 3D volume orginally used to extract labeled nuclei in this <a href = "https://pubmed.ncbi.nlm.nih.gov/33252180/">publication.</a>  The four fluorescence channels are, in order, DAPI, XXXX, YYYY and ZZZZ.  The volume contains a broad crosssection of the cortex and outer medulla with glomeruli, vessels, tubules and immune cells. </p>
+<p>This a large four channel confocal 3D volume orginally used to extract labeled nuclei in this <a href = "https://pubmed.ncbi.nlm.nih.gov/33252180/">publication.</a>  The four fluorescence channels are, in order, DAPI, XXXX, YYYY and ZZZZ.  The volume contains a broad crosssection of the cortex and outer medulla with glomeruli, vessels, tubules and immune cells.</p>
 
 <h4> Image file </h4>
 
