@@ -90,7 +90,7 @@ This is an image volume of a kidney biopsy collected with a cyclic multiplexed i
 ### Nephrectomy tissue 2
 <a href="https://doi.org/10.5281/zenodo.5842207"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5842207.svg" alt="DOI"></a>
 
-This nephrectomy tissue was stained and imaged using a <a href = "https://www.protocols.io/view/sample-preparation-and-imaging-for-large-scale-3d-j8nlke4r6l5r/v1">protocol</a> developed for the <a href = "kpmp.org">Kideny Precision Medicine Project</a> and published <a href="https://pubmed.ncbi.nlm.nih.gov/33408350/">here</a>.
+This nephrectomy tissue was stained and imaged using a <a href = "https://www.protocols.io/view/sample-preparation-and-imaging-for-large-scale-3d-j8nlke4r6l5r/v1">protocol</a> developed for the <a href = "https://www.kpmp.org">Kidney Precision Medicine Project</a> and published <a href="https://pubmed.ncbi.nlm.nih.gov/33408350/">here</a>.
 
 <h4> Image file </h4>
 
