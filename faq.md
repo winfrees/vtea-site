@@ -27,7 +27,7 @@ Yes.  This will be the subject of a future sketch.
 
 #### Is there a long-term support plan for VTEA?
 
-Yes.  VTEA was first released five years ago in <a href = "https://doi.org/10.1681/ASN.2016091027">2017</a> and has become central to a number of research projects.  Our intention is to continue to support and develop version 1 for the next 4-5 years for use in on-going funded projects.  This will include addressing bugs, incremental additions to the existing framework (new segmentation, graph-based clustering and neighborhood analyses), expand the support for combined analysis (integration across and between imaging datasets) and explore new supervised analysis and visualization approaches.  Developemment of VTEA 2.0 will begin soon with a focus on improving data handling under-the-hood (for support of Terabyte scale data) and implementing multimodal integration (from images to transcriptomics). 
+Yes.  VTEA was first released five years ago in <a href = "https://doi.org/10.1681/ASN.2016091027">2017</a> and is central to a number of research projects.  Our intention is to continue to support and develop version 1 for the next 4-5 years for use in on-going funded projects.  This will include addressing bugs, incremental additions to the existing framework (new segmentation, graph-based clustering and neighborhood analyses), expand the support for combined analysis (integration across and between imaging datasets) and explore new supervised analysis and visualization approaches.  Developemment of VTEA 2.0 will begin soon with a focus on improving data handling under-the-hood (for support of Terabyte scale data) and implementing multimodal integration (from images to transcriptomics). 
 
 #### Is there a citation for VTEA?
 
