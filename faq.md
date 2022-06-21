@@ -21,7 +21,7 @@ VTEA is only limited by how much RAM it can use and the maximum size of a single
 
 Yes.  This can be done by using the segmentation option, "Prelabelled Nuclei."  
 
-#### Can I import features I've calculated in other tools (MorpholibJ, illastik, etc.)?
+#### Can I import features I've calculated in other tools (MorpholibJ, ilastik, etc.)?
 
 Yes.  This will be the subject of a future sketch.
 
