@@ -38,7 +38,7 @@
     <td><img class="fit-picture"
      src="/vignettes/ImageProcessing/ImageProcessing.png"
      alt="Screenshot of image pre-processing."></td>
-    <td>This sketch demostrates the use and application of image processing built into VTEA.  The VTEA implmentations use existing approached in ImageJ/FIJI and other ImageJ plugins.</td> 
+    <td>This sketch demonstrates the use and application of image processing built into VTEA.  The VTEA uses existing approached in ImageJ/FIJI and other ImageJ plugins.</td> 
     <td>
      <table border="0">   
       <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
@@ -59,7 +59,7 @@ Drafting release...
     <td><img class="fit-picture"
      src="/vignettes/RefiningSegmentation/RefiningSegmentation.png"
      alt="Screenshot of refining VTEA segmentation."></td>
-    <td> This sketch demonstrates adjusting how to preview the effect of parameter selection on VTEA segmentation including image pre-processing.</td> 
+    <td> This sketch demonstrates how to preview the effect of parameter selection and image pre-processing on segmentation.</td> 
     <td>
      <table border="0">   
       <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
@@ -77,7 +77,7 @@ Drafting release...
 <table border="0">
  <tr>
     <td>Place image here</td>
-    <td>This sketch shows how to import a segmentation performed with a separate tool, such as Cellpose, etc.</td> 
+    <td>This sketch shows how to import a segmentation performed outside of VTEA, such as Cellpose, etc.</td> 
     <td>
      <table border="0">   
        <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
@@ -98,7 +98,7 @@ Drafting new release...
      <td><img class="fit-picture"
      src="/vignettes/SupervisedGating/Gating.png"
      alt="Supervised gating with visualization in VTEA."></td>
-    <td>This sketch introduces flow cytometry-like gating and subgating and image-regions-of-interest gating with     visualization on the original image volume followed by manual cell instance labeling with these gates.</td> 
+    <td>This sketch introduces flow cytometry-like gating and subgating and image regions-of-interest gating and visualization on the original image volume followed by manual cell instance labeling with these gates.</td> 
     <td>
      <table border="0">   
        <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td></tr>
