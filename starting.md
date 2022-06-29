@@ -23,7 +23,7 @@ And replaced with the dependencies on <a href = "https://github.com/icbm-iupui/v
 
 **Method 2.**  VTEA can also be run inside an IDE such as Netbeans.  The easiest approach is to clone the maven project from [github](https://github.com/icbm-iupui/volumetric-tissue-exploration-analysis).  
 
-If there is any difficulty or concerns please feel free to submit an [issue](https://github.com/icbm-iupui/volumetric-tissue-exploration-analysis/issues), or contact [us](mailto:winfrees@iu.edu).
+If there is any difficulty or concerns please feel free to submit an [issue](https://github.com/icbm-iupui/volumetric-tissue-exploration-analysis/issues), or contact [us](mailto:swinfree@unmc.edu).
 
 **Additional links:**
 
