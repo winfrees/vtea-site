@@ -11,13 +11,15 @@ The following jar need to be removed from the Fiji/jars/ folder:
 
 1. datasets-0.8.1906.jar
 2. gcc-runtime-0.8.1906.jar
-3. methods-0.8.1906.jar
-4. renjin-appl-0.8.1906.jar
-5. renjin-core-0.8.1906.jar
-6. renjin-gnur-runtime-0.8.1906.jar
-7. renjin-script-engine-0.8.1906.jar
-8. stats-0.8.1906.jar
-9. utils-0.8.1906.jar
+3. graphics-0.8.1906.jar
+4. grDevices-0.8.1906.jar
+5. methods-0.8.1906.jar
+6. renjin-appl-0.8.1906.jar
+7. renjin-core-0.8.1906.jar
+8. renjin-gnur-runtime-0.8.1906.jar
+9. renjin-script-engine-0.8.1906.jar
+10. stats-0.8.1906.jar
+11. utils-0.8.1906.jar
 
 And replaced with the dependencies on <a href = "https://github.com/icbm-iupui/volumetric-tissue-exploration-analysis/releases/download/v1.1.7/Dependencies.zip"> github</a>.
 
