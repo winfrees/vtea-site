@@ -2,7 +2,7 @@
 * TOC
 {:toc}
 
-## Introductory Video
+## Introductory video
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/892e3cba8b564cb0b6ae6f7ac5e6f84f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
