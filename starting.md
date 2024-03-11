@@ -21,7 +21,7 @@ The following jar need to be removed from the Fiji/jars/ folder:
 10. stats-0.8.1906.jar
 11. utils-0.8.1906.jar
 
-And replaced with the dependencies on <a href = "https://github.com/icbm-iupui/volumetric-tissue-exploration-analysis/releases/download/v1.1.7/Dependencies.zip"> github</a>.
+And replaced with the dependencies on <a href = "https://github.com/icbm-iupui/volumetric-tissue-exploration-analysis/releases/download/v1.2.3/Dependencies.zip"> github</a>.
 
 **Method 2.**  VTEA can also be run inside an IDE such as Netbeans.  The easiest approach is to clone the maven project from [github](https://github.com/icbm-iupui/volumetric-tissue-exploration-analysis).  
 
