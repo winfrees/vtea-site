@@ -20,6 +20,7 @@ The following jar need to be removed from the Fiji/jars/ folder:
 9. renjin-script-engine-0.8.1906.jar
 10. stats-0.8.1906.jar
 11. utils-0.8.1906.jar
+12. flatlaf-3.5.1.jar
 
 And replaced with the dependencies on <a href = "https://github.com/icbm-iupui/volumetric-tissue-exploration-analysis/releases/download/v1.2.3/Dependencies.zip"> github</a>.
 
