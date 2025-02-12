@@ -28,6 +28,26 @@
 </tr>
 </table>
 
+## Importing object file (.obx) and image file for further analysis
+Drafting release...
+*revision:* Coming soon.   *date:* TBD
+
+<table border="0">
+ <tr>
+    <td><img class="fit-picture"
+     src="/vignettes/RefiningSegmentation/RefiningSegmentation.png"
+     alt="Screenshot of loading object files with linked image file."></td>
+    <td> This sketch demonstrates how to load and contiune to analyze an existing VTEA dataset.</td> 
+    <td>
+     <table border="0">   
+      <tr><td><span style="font-weight:bold">Level</span></td><td>Introductory</td> </tr>
+         <tr><td><span style="font-weight:bold">Functionality</span></td> <td>Loading, Data Sharing</td> </tr>
+         <tr><td><span style="font-weight:bold">Time</span></td> <td> <5 min</td> </tr>
+     <tr><td><span style="font-weight:bold">Image</span></td><td>Kidney_Cortex_Human.tif<br><a href="https://doi.org/10.5281/zenodo.5816199"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5816199.svg" alt="DOI"></a></td></tr></table>
+     </td>
+ </tr>
+</table> 
+
 ## Refining image processing
 
 <form action="/vignettes/ImageProcessing/ImageProcessing.html" method="get" target="_blank"><button type="submit">start</button></form>
